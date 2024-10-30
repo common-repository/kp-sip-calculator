@@ -1,0 +1,257 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KP SIP Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-30 11:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: kp-sip-calculator"
+
+#: admin/class-kp-sip-calculator-settings.php:104
+msgid "&#36; Australian Dollar (AUD)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:103
+msgid "&#36; Canadian Dollar (CAD)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:99
+msgid "&#36; US Dollar (USD)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:98
+msgid "&#8377; Indian Rupee (INR)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:100
+msgid "&euro; Euro (EUR)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:101
+msgid "&pound; British Pound (GBP)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:102
+msgid "&yen; Japanese Yen (JPY)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A SIP Calculator with customizable default values for Monthly Investment, "
+"Expected Return Rate, and Time Period."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-admin.php:38
+msgid "Action failed."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:141
+msgid ""
+"Are you sure? This will remove all existing plugin options and restore them "
+"to their default states."
+msgstr ""
+
+#: kp-sip-calculator.php:92 kp-sip-calculator.php:100
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:118
+msgid "Clean Uninstall"
+msgstr ""
+
+#. %s tooltip icon
+#: admin/class-kp-sip-calculator-settings.php:354
+#, php-format
+msgid "Click %s to view documentation."
+msgstr ""
+
+#: admin/views/html-support-page.php:15 admin/views/html-support-page.php:18
+msgid "Contact Us"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:90
+msgid "Currency"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:86
+#: admin/views/html-settings-page.php:19 admin/views/html-settings-page.php:58
+msgid "Customize"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:56
+msgid "Default Expected Return Rate (%)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:65
+msgid ""
+"Default expected return rate without percentage which will be used for "
+"initial calculation."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:40
+msgid "Default Monthly Investment"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:49
+msgid ""
+"Default monthly investment amount which will be used for initial calculation."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:72
+msgid "Default Time Period (Years)"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:81
+msgid "Default time period which will be used for initial calculation."
+msgstr ""
+
+#: kp-sip-calculator.php:170
+msgid "Docs"
+msgstr ""
+
+#: admin/views/html-support-page.php:6 admin/views/html-support-page.php:9
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:158
+msgid "Export Plugin Settings"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:160
+msgid ""
+"Export plugin settings for this site as a .json file. This lets you easily "
+"import the configuration into another site."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:150
+msgid "Export Settings"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:35
+#: admin/views/html-settings-page.php:18 admin/views/html-settings-page.php:50
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/kprajapati22/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/kp-sip-calculator"
+msgstr ""
+
+#: admin/views/html-support-page.php:17
+msgid ""
+"If you have questions or problems, please send us a message. We’ll get back "
+"to you as soon as possible."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:335
+msgid "Import Plugin Settings"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:172
+msgid "Import plugin settings from an exported .json file."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:167
+msgid "Import Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kalpesh Prajapati"
+msgstr ""
+
+#. Name of the plugin
+msgid "KP SIP Calculator"
+msgstr ""
+
+#: admin/views/html-support-page.php:8
+msgid ""
+"Need help? Check out our in-depth documentation. Every feature has a step-by-"
+"step walkthrough."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:498
+msgid "No import file given."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:557
+msgid "Nonce is invalid."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:548
+msgid "Permission denied."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:512
+msgid "Please upload a valid .json file."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:143
+msgid "Restore all plugin options to their default settings."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:132
+#: admin/class-kp-sip-calculator-settings.php:140
+msgid "Restore Default Options"
+msgstr ""
+
+#: admin/views/html-settings-page.php:79
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:106
+msgid "Select Currency to show in frontend"
+msgstr ""
+
+#: kp-sip-calculator.php:169 admin/class-kp-sip-calculator-settings.php:113
+msgid "Settings"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:475
+msgid "Settings exported."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:434
+msgid "Settings saved."
+msgstr ""
+
+#: admin/views/html-settings-page.php:2
+msgid "SIP Calculator"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:531
+msgid "Successfully imported plugin settings."
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:455
+msgid "Successfully restored default options."
+msgstr ""
+
+#: admin/views/html-settings-page.php:28 admin/views/html-support-page.php:2
+msgid "Support"
+msgstr ""
+
+#: admin/views/html-settings-page.php:25 admin/views/html-settings-page.php:70
+msgid "Tools"
+msgstr ""
+
+#: admin/views/html-settings-page.php:39
+msgid "Version"
+msgstr ""
+
+#: admin/class-kp-sip-calculator-settings.php:125
+msgid ""
+"When enabled, this will cause all settings data to be removed from your "
+"database when the plugin is uninstalled."
+msgstr ""
